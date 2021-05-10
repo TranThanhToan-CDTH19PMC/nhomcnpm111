@@ -31,7 +31,7 @@ public class Main {
         System.out.println("Tong so nguyen to la: "+TongSNT(n,A));
         for(int i = 0; i < 8;i++)
             System.out.print("- ");
-        System.out.println();
+       
         
         
         // Bai 2
